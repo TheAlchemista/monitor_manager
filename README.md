@@ -7,5 +7,5 @@ Python application dedicated to manually turn on and off monitors in a multi-mon
 Only file Main.py. It will open a GUI.
 
 ## Dependencies
- - [PySide6](https://pypi.org/project/PySide6/)
- - [DisplayChanger](http://12noon.com/?page_id=80) - needs to be added to the path
+ - [PySide6 6.1.1](https://pypi.org/project/PySide6/)
+ - [DisplayChanger 4.4.2](http://12noon.com/?page_id=80) - needs to be added to the path
